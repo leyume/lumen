@@ -1,0 +1,13 @@
+{
+    "name": "li/finale",
+    "description": "Li Finale Package",
+    "type": "micro",
+    "authors": [
+        {
+            "name": "L i",
+            "email": "leye@servorien.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
